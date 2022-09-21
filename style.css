@@ -1,0 +1,49 @@
+h1{
+  color: #FFFFFF;
+  text-align: "left";
+  font-family: "Cascadia Mono";
+  font-size: 55px;
+  font-weight: bold;
+}
+h2{
+  color: #FFFFFF;
+  text-align: "left";
+  font-family: "Cascadia Mono";
+  font-size: 34px;
+  font-weight: bold;
+}
+body{
+  color: #FFFFFF;
+  background-color: #3B2721;
+  font-family:"Atkinson Hyperlegible";
+  text-emphasis-color: #F8C5BE;
+  font-size: 21px;
+}
+a{
+  color: #F2F4F3;
+  font-size: 21px;
+}
+ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+background-color: #F2F4F3;
+}
+
+li {
+float: left;
+}
+li a{
+  display: block;
+  color: #22333B;
+  text-algin: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+li a:hover{
+background-color: #C9C9C9;
+}
+table{
+  text-align: center;
+}
