@@ -15,8 +15,10 @@ h2{
 body{
   color: #FFFFFF;
   background-color: #3B2721;
-  font-family:"Atkinson Hyperlegible";
-  text-emphasis-color: #F8C5BE;
+  background-image: url(Background.png);
+  background-size: 632px 351px;
+  font-family:"Arial";
+  text-emphasis-color: #F8C5BE;s
   font-size: 21px;
 }
 a{
@@ -49,4 +51,7 @@ table{
 }
 footer{
   font-size: 13px;
+}
+img{
+  border-radius: 20px;
 }
